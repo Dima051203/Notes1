@@ -17,3 +17,4 @@ namespace Notes.Views
             await Launcher.OpenAsync("https://aka.ms/xamarin-quickstart");
         }
     }
+}
